@@ -1,0 +1,29 @@
+{
+  "name": "ajs_4_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gordov-andrey/ajs_4_2.git"
+  },
+  "author": "Andrey Gordov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gordov-andrey/ajs_4_2/issues"
+  },
+  "homepage": "https://github.com/gordov-andrey/ajs_4_2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "babel-jest": "^27.3.1",
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "core-js": "^3.19.1"
+  }
+}

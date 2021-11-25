@@ -1,1 +1,3 @@
-export const sortByHealth = (a, b) => b.health - a.health;
+const sortByHealth = (a, b) => b.health - a.health;
+
+export default sortByHealth;
